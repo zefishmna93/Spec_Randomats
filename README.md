@@ -16,7 +16,7 @@ Special thanks to ["Corvatile"](https://steamcommunity.com/id/Corvatile) and ["M
 <br>
 
 **Server cvars:**
-```lua
+```c++
 ttt_end__the_round_radar_delay 60 // The time in seconds to delay after the min number of players are left to trigger the radar randomat
 
 ttt_end_the_round_wall_hack_delay 120 // The time in seconds to delay after the radar randomat triggers to trigger the wall hack randomat
